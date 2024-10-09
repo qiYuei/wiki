@@ -1,0 +1,23 @@
+{
+  "zh": {
+    "/components/": [
+      {
+        "text": "基础组件",
+        "items": [
+          {
+            "text": "Button",
+            "link": "/components/button/button.md"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "/components/": [
+      {
+        "text": "Button",
+        "link": "/en/components/button/button.en.md"
+      }
+    ]
+  }
+}
